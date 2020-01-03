@@ -1,0 +1,8 @@
+{
+  "name": "thingy",
+  "version": "0.0.1",
+  "description": "Simple store to keep my things",
+  "main": "index.js",
+  "author": "Atte Tarvainen <tarvainen.atte@gmail.com>",
+  "license": "MIT"
+}
